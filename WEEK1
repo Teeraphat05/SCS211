@@ -1,0 +1,43 @@
+<body>
+  <h1>ชื่อสินค้า</h1>
+  <h2>นํ้าผลไม้องุ่น</h2>
+  <h3>15บาท</h3>
+  <img
+    src="https://lzd-img-global.slatic.net/g/p/347633f2aa8cee833f861a5c26c37dc5.jpg_720x720q80.jpg"
+    alt="Girl in a jacket"
+    width="500"
+    height="600"
+  />
+
+  <ul>
+    <li>กินแล้วไม่อ้วนli></li>
+  </ul>
+
+  <p>นํ้าองุ่นหวานสดชื่น</p>
+  <button type="button">Click Me!</button>
+  <table>
+    <tr>
+      <th>ค่าจัดส่ง15บาท</th>
+      <th>10นาที่ถึง</th>
+    </tr>
+    <tr>
+      <td>สิงหาคม</td>
+      <td>20บาท</td>
+    </tr>
+  </table>
+  <form action="/action_page.php">
+    <label for="fname">ชื่อ:</label>
+    <input type="text" id="fname" name="fname"><br><br>
+    <label for="lname">นามสกุล:</label>
+    <input type="text" id="lname" name="lname"><br><br>
+    <input type="submit" value="Submit">
+  </form>
+  <label for="cars">Choose a car:</label>
+  <select name="cars" id="cars"></select>
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="mercedes">Mercedes</option>
+  <option value="audi">Audi</option>
+</select>
+<button type="button">Click Me!</button>
+</body>

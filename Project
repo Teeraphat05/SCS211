@@ -1,0 +1,165 @@
+ead>
+<body>
+  <!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Computer Science</title>
+  <style>
+      body {
+          font-family: 'Arial', sans-serif;
+          margin: 0;
+          padding: 0;
+      }
+      .header {
+          display: flex;
+          align-items: center;
+          background-color: #fff;
+          padding: 10px 20px;
+          border-bottom: 1px solid #ccc;
+      }
+      .header img {
+          height: 80px;
+      }
+      .header .title {
+          margin-left: 15px;
+      }
+      .header .title h1 {
+          font-size: 24px;
+          margin: 0;
+      }
+      .header .title p {
+          font-size: 14px;
+          margin: 0;
+          color: rgb(129, 129, 129);
+      }
+      .nav-menu {
+          margin-left: auto;
+          display: flex;
+      }
+      .nav-menu a {
+          margin: 0 10px;
+          text-decoration: none;
+          color: rgb(8, 0, 255);
+          font-size: 14px;
+          position: relative;
+      }
+      .nav-menu a:hover {
+          color: #990000;
+      }
+      .nav-menu a::after {
+          content: "▼";
+          font-size: 10px;
+          margin-left: 5px;
+      }
+  </style>
+</head>
+<body>
+
+
+  <div class="header">
+      <img src="https://www.vru.ac.th/wp-content/uploads/2022/02/1.3MB.png" alt="Logo">
+      <div class="title">
+          <h1>มหาวิทยาลัยราชภัฏวไลยอลงกรณ์ ในพระบรมราชูปถัมภ์</h1>
+          <p>อัตลักษณ์: บัณฑิตจิตอาสา พัฒนาท้องถิ่น</p>
+      </div>
+      <div class="nav-menu">
+          <a href="http://cs.vru.ac.th/index.php">หน้าหลัก</a>
+          <a href="http://cs.vru.ac.th/about.php">เกี่ยวกับหลักสูตร</a>
+          <a href="http://cs.vru.ac.th/teacher.php">อาจารย์และบุคลากร</a>
+          <a href="http://cs.vru.ac.th/student.php">นักศึกษา</a>
+          <a href="#">บทความ</a>
+          <a href="http://cs.vru.ac.th/contact.php">ติดต่อเรา</a>
+      </div>
+  </div>
+
+
+</body>
+</html>
+    </header>
+    <div class="mainnav-container f-nav">
+    <nav id="mainav" class="clear">
+      <ul class="clear">
+        <!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>สำหรับนักศึกษา</title>
+</head>
+<body>
+  <h1>สำหรับนักศึกษา</h1>
+ 
+  <h2>บริการออนไลน์</h2>
+  <ul>
+      <li>คู่มือการจองรายวิชาออนไลน์สำหรับนักศึกษา</li>
+      <li>ระบบตรวจสอบผลการเรียน / จองรายวิชา</li>
+      <li>ระบบประเมินการสอน Online</li>
+      <li>เข้าฝึกเรียนภาษาอังกฤษออนไลน์</li>
+      <li>ช่องทางเสนอแนะ / ร้องเรียน / ร้องเรียนทุจริต</li>
+      <li>ระบบบิบค้นทรัพยากรห้องสมุด (OPAC)</li>
+      <li>ดาวน์โหลดแบบฟอร์มสำหรับนักศึกษา</li>
+      <li>วารสารที่ผ่านการรับรองคุณภาพจาก TCI</li>
+      <li>แบบฟอร์มสมัคร E-Mail@vru.ac.th (สำหรับนักศึกษา)</li>
+      <li>ขั้นตอนการให้บริการสำหรับนักศึกษา</li>
+  </ul>
+
+
+  <h2>ข้อมูลทั่วไป/ระเบียบ</h2>
+  <ul>
+      <li>ระเบียบ/ข้อบังคับ ที่เกี่ยวข้องกับนักศึกษา</li>
+      <li>พรบ.คอมพิวเตอร์ พ.ศ.2550</li>
+  </ul>
+
+
+  <h2>หน่วยงานที่เกี่ยวข้องกับนักศึกษา</h2>
+  <ul>
+      <li>สำนักงานส่งเสริมวิชาการและงานทะเบียน</li>
+      <li>กองพัฒนานักศึกษา</li>
+      <li>สำนักวิทยบริการและเทคโนโลยีสารสนเทศ</li>
+  </ul>
+
+
+  <h2>ข่าว/กิจกรรม</h2>
+  <ul>
+      <li>ข่าวประชาสัมพันธ์</li>
+      <li>ข่าวกิจกรรม</li>
+      <li>วารสารออนไลน์</li>
+  </ul>
+  <div class="wrapper row6">
+      <div id="copyright" class="clear">
+        <p class="fl_left"><form style="vertical-align: inherit;"><form style="vertical-align: inherit;">Copyright © 2016 มหาวิทยาลัยราชภัฏวไลยอลงกรณ์ ในพระบรมราชูปถัมภ์</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">      
+       เลขที่ 1 หมู่ 20 ต.คลองหนึ่ง อ.คลองหลวง จ.ปทุมธานี 13180</form></form><br>
+        </p>
+      </div>
+    </div>
+    <!-- Row 3: Three Columns -->
+    <div class="row my-3">
+        <div class="col-md-4">
+            <h2>ติดต่อเรา</h2>
+            <img class="img-thumbnail rounded-circle mb-4" src="http://cs.vru.ac.th/images/css.png"
+                style="width:70px; height:70px;" alt="Contact Image">
+            <p>
+                หลักสูตรวิทยาการคอมพิวเตอร์ <br>
+                คณะวิทยาศาสตร์และเทคโนโลยี <br>
+                อาคาร 75 ปี วไลยอลงกรณ์ <br>
+                โทรศัพท์ 0-2529-0674-7 ต่อ 365 <br>
+                โทรสาร 02-909-3029
+                <a href="https://www.google.com/maps/place/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A0%E0%B8%B1%E0%B8%8F%E0%B8%A7%E0%B9%84%E0%B8%A5%E0%B8%A2%E0%B8%AD%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C+%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B9%8C/@14.1335644,100.6144832,17z/data=!4m12!1m6!3m5!1s0x30e29935192c96f7:0xf986dd8e57a509fb!2z4Lih4Lir4Liy4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4Lij4Liy4LiK4Lig4Lix4LiP4Lin4LmE4Lil4Lii4Lit4Lil4LiH4LiB4Lij4LiT4LmMIOC5g-C4meC4nuC4o-C4sOC4muC4o-C4oeC4o-C4suC4iuC4ueC4m-C4luC4seC4oeC4oOC5jA!8m2!3d14.1335644!4d100.6166719!3m4!1s0x30e29935192c96f7:0xf986dd8e57a509fb!8m2!3d14.1335644!4d100.6166719">แผนที่มหาลัย</a>
+            </p>
+        </div>
+   
+    <a id="backtotop" href="#top" class="visible"><i class="fa fa-chevron-up"></i></a>
+    <!-- JAVASCRIPTS -->
+    <script src="layout/scripts/jquery.min.js"></script>
+    <script src="layout/scripts/jquery.backtotop.js"></script>
+    <script src="layout/scripts/jquery.mobilemenu.js"></script>
+    <script src="layout/scripts/jquery.flexslider-min.js"></script>
+    <script src="layout/scripts/script_menutop_fixed.js" type="text/javascript"></script>
+    <!-- IE9 Placeholder Support -->
+    <script src="layout/scripts/jquery.placeholder.min.js"></script>
+    <script src="layout/scripts/custom.js" type="text/javascript"></script>
+    <script src="layout/scripts/tabvru.js" type="text/javascript"></script>
+</body>
+</html>
